@@ -1,4 +1,9 @@
 ### Hi there 👋
+👋 Hi, I’m @Ms-Shaukat
+👀 I’m seasoned developer and data enthusiastic
+🌱 I’m currently learning advanced data analytics and Business Intelligence
+💞️ I’m looking to collaborate on developing algorithms, models, visualizations and development projects
+📫 How to reach me munazza.guide@gmail.com
 
 <!--
 **Ms-Shaukat/Ms-Shaukat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
